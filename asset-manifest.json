@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/kiaraweb/static/css/main.073c9b0a.css",
-    "main.js": "/kiaraweb/static/js/main.59a25abf.js",
+    "main.js": "/kiaraweb/static/js/main.0aed681e.js",
     "static/js/787.c3f04dcc.chunk.js": "/kiaraweb/static/js/787.c3f04dcc.chunk.js",
     "static/media/logo.svg": "/kiaraweb/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/kiaraweb/index.html",
     "main.073c9b0a.css.map": "/kiaraweb/static/css/main.073c9b0a.css.map",
-    "main.59a25abf.js.map": "/kiaraweb/static/js/main.59a25abf.js.map",
+    "main.0aed681e.js.map": "/kiaraweb/static/js/main.0aed681e.js.map",
     "787.c3f04dcc.chunk.js.map": "/kiaraweb/static/js/787.c3f04dcc.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.59a25abf.js"
+    "static/js/main.0aed681e.js"
   ]
 }
